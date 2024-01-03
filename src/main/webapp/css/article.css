@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body{
+          			overflow-x: hidden;
+          			margin:0px;
+          			padding:0px;
+          		}
+               .box{
+                    width: 100%;
+                    margin: 0px;
+                    text-align: justify;
+                    
+                    /* 其他样式 */
+                   }
+               .box h1{
+                    
+                    font-size: 30px;
+               }
+               .box h3{
+                    font-size: 15px;
+                    color: teal;
+                    margin-bottom: 20px;
+               }
+               .box p{
+               		padding:0 20px;
+                    line-height: 48px;
+                    margin-bottom: 10px;
+                    font-family: 'PinYin','QuanKaiTi','QuanKaiTi';
+                    font-size: 24px;
+                    text-indent:2em;
+               }

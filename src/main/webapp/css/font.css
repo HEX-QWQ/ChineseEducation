@@ -1,0 +1,17 @@
+@font-face {
+    font-family:'PinYin';
+    src: url(font/FangZhengKaiTiPinYinZiKu-1.ttc);
+}
+@font-face {
+    font-family:'KaiTi';
+    src: url(font/FangZhengKaiTiJianTi-1.ttf);
+}
+@font-face {
+    font-family:'GB2312';
+    src: url(font/GB2312.ttf);
+}
+@font-face {
+    font-family:'QuanKaiTi';
+    src: url(font/TaiWanQuanZiKuZhengKaiTi-2.ttf);
+}
+
